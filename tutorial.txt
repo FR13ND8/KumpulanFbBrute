@@ -1,0 +1,43 @@
+<===// USAGE :
+        > $ pkg update && pkg upgrade
+        > $ pkg install git
+        > $ pkg install python2
+        > $ pip2 install mechanize
+        > $ pip install requests
+        > $ pip install bs4
+        > $ pip install --upgrade pip
+        > $ pkg install php
+        > $ git clone https://github.com/FR13ND8/KumpulanFbBrute
+        > $ cd KumpulanFbBrute
+        > $ ls
+        > $ chmod +x jomblo.py
+        > $ python2 jomblo.py
+        
+<===// TUTOR BRUTEFORCE TARGET :
+         1, PILIHLAH SALAH SATU TOOL KumpulanFbBrute {ENTER}
+         2, MASUKAN ID TARGET <==// CONTOH : 1000xxxxxxxxx {enter}
+         3, DISISTU AD WORDLIST DUA
+            > password.txt
+            > password1.txt
+         4, PILIH SALAH SATU WORDLIST NYA
+         5, -CONTOH : password.txt {enter}
+            -CONTOH : password1.txt {enter}
+         6, TUNGGU SAMPAI TERLACAK PASSWORD FB TARGET
+         
+<===// TUTORIAL BRUTEFORCE MBF :
+         > MBF DISITU ADA DUA YG (1,MBF) (2.CNK)
+         1. PILIHLAH SALAH SATU TERSERAH MAU CNK/MBF
+         2, PILIHLAH AMBIL ID TEMAN
+         3, LOGIN FB KALIAN
+         4, TUNGGU TERGANTUNG PERTEMANAN KAMU BANYAK
+         5, LANGSUNG CRACK : y
+         6, MASUKAN PASSWORD YG SERING DI GUNAKAN ORANG
+             <==// CONTOH : sayang,doraemon,jomblo
+             
+<===// DONE :
+         > CODED BY : RISKI DARMAWAN
+         > FACEBOOK : Riski Darmawan
+         > GITHUB   : https://github.com/FR13ND8/
+         > TEAM     : INDONESIA DARK TERMUX ASSOCIATE
+         
+<===//THANKS YG SUDAH SUPPORT SAYA\\===>
